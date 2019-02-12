@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+      <Title>StatelessComponent</Title>
+      <Author>István Kocsis</Author>
+      <Description>Stateless component.</Description>
+      <HelpUrl>
+      </HelpUrl>
+      <Shortcut>sl</Shortcut>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal Editable="true">
+          <ID>component</ID>
+          <ToolTip>component</ToolTip>
+          <Default>component</Default>
+          <Function>
+          </Function>
+        </Literal>
+      </Declarations>
+      <Code Language="javascript" Delimiter="$"><![CDATA[import React from 'react';
+
+const $component$ = (prop) => (
+    $end$
+);
+
+export default $component$;]]></Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

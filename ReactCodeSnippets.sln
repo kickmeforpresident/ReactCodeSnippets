@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactCodeSnippets", "ReactCodeSnippets\ReactCodeSnippets.csproj", "{E5BDF2C5-7037-4763-A63E-1D1CA5AE340E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5BDF2C5-7037-4763-A63E-1D1CA5AE340E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5BDF2C5-7037-4763-A63E-1D1CA5AE340E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5BDF2C5-7037-4763-A63E-1D1CA5AE340E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5BDF2C5-7037-4763-A63E-1D1CA5AE340E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDE57234-847B-4494-80E1-AFE92B3EA0AA}
+	EndGlobalSection
+EndGlobal
