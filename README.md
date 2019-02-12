@@ -1,9 +1,9 @@
 # ReactCodeSnippets
 React Code Snippets for Visual Studio
 
-[<img src="https://vsmarketplacebadge.apphb.com/version/IstvanKocsis.12345.svg" alt="Visual Studio Marketplace">](https://marketplace.visualstudio.com/items?itemName=IstvanKocsis.12345)
+[<img src="https://vsmarketplacebadge.apphb.com/version/IstvanKocsis.ReactCodeSnippets.svg" alt="Visual Studio Marketplace">](https://marketplace.visualstudio.com/items?itemName=IstvanKocsis.ReactCodeSnippets)
 
-[<img src="https://vsmarketplacebadge.apphb.com/downloads/IstvanKocsis.12345.svg" alt="Visual Studio Marketplace">](https://marketplace.visualstudio.com/items?itemName=IstvanKocsis.12345)
+[<img src="https://vsmarketplacebadge.apphb.com/downloads/IstvanKocsis.ReactCodeSnippets.svg" alt="Visual Studio Marketplace">](https://marketplace.visualstudio.com/items?itemName=IstvanKocsis.ReactCodeSnippets)
 
 ---
 
