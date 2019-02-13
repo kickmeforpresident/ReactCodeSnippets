@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" ?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="ReactCodeSnippets.074d7f5c-8949-4bfb-8021-597cdfcbfb05" Version="1.0" Language="en-US" Publisher="Istvan Kocsis" />
+        <Identity Id="ReactCodeSnippets.074d7f5c-8949-4bfb-8021-597cdfcbfb05" Version="1.1" Language="en-US" Publisher="Istvan Kocsis" />
         <DisplayName>React Code Snippets</DisplayName>
         <Description xml:space="preserve">React code snippets for Visual Studio 2017.</Description>
         <MoreInfo>https://github.com/kickmeforpresident/ReactCodeSnippets</MoreInfo>

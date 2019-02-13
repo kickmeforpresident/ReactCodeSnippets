@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+      <Title>PureComponentClass</Title>
+      <Author>István Kocsis</Author>
+      <Description>Pure Component Class.</Description>
+      <HelpUrl>
+      </HelpUrl>
+      <Shortcut>pcs</Shortcut>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal Editable="true">
+          <ID>Example</ID>
+          <ToolTip>Example</ToolTip>
+          <Default>Example</Default>
+          <Function>
+          </Function>
+        </Literal>
+      </Declarations>
+      <Code Language="javascript" Delimiter="$"><![CDATA[import React, { PureComponent } from 'react';
+
+class $Example$ extends PureComponent {
+    state = {  }
+    render() {
+        return (
+            $end$
+        );
+    }
+}
+
+export default $Example$;]]></Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

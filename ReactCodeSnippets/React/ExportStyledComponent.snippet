@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+      <Title>ExportStyledComponent</Title>
+      <Author>István Kocsis</Author>
+      <Description>Export Styled Component.</Description>
+      <HelpUrl>
+      </HelpUrl>
+      <Shortcut>estyc</Shortcut>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal Editable="true">
+          <ID>Example</ID>
+          <ToolTip>Example</ToolTip>
+          <Default>Example</Default>
+          <Function>
+          </Function>
+        </Literal>
+        <Literal Editable="true">
+          <ID>tag</ID>
+          <ToolTip>tag</ToolTip>
+          <Default>tag</Default>
+          <Function>
+          </Function>
+        </Literal>
+        <Literal Editable="true">
+          <ID>css</ID>
+          <ToolTip>css</ToolTip>
+          <Default>css</Default>
+          <Function>
+          </Function>
+        </Literal>
+      </Declarations>
+      <Code Language="javascript" Delimiter="$"><![CDATA[export const $Example$ = styled.$tag$`
+    $css$
+`
+$end$]]></Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
