@@ -23,6 +23,14 @@ import React, { Component } from 'react';
 
 <br>
 
+`imrpc`
+
+```javascript
+import React, { PureComponent } from 'react';
+```
+
+<br>
+
 `impt`
 
 ```javascript
@@ -35,6 +43,14 @@ import PropTypes from 'prop-types';
 
 ```javascript
 import styled from 'styled-components';
+```
+
+<br>
+
+`imsc`
+
+```javascript
+import styled, { css } from 'styled-components'
 ```
 
 <br>
@@ -186,6 +202,45 @@ class Example extends Component {
 export default Example;
 ```
 
+`pcs`
+
+```javascript
+import React, { PureComponent } from 'react';
+
+class Example extends PureComponent {
+    state = {  }
+    render() {
+        return (
+            
+        );
+    }
+}
+
+export default Example;
+```
+
+<br>
+
+`pccs `
+
+```javascript
+import React, { PureComponent } from 'react';
+
+class Example extends PureComponent {
+    constructor(props) {
+        super(props);
+        this.state = {  };
+    }
+    render() {
+        return (
+            
+        );
+    }
+}
+
+export default Example;
+```
+
 <br>
 
 `styc`
@@ -195,3 +250,40 @@ const Example = styled.h1`
   
 `;
 ```
+
+<br>
+
+`estyc`
+
+```javascript
+export const Example = styled.h1`
+    
+`
+```
+
+<br>
+
+`rrd`
+
+```javascript
+export default (state = , action) => {
+    switch (action.type) {
+        case :
+            
+        default:
+            return state;
+    }
+};
+```
+
+<br>
+
+`ed`
+
+```javascript
+export default ;
+  
+`;
+```
+
+<br>
