@@ -282,8 +282,6 @@ export default (state = , action) => {
 
 ```javascript
 export default ;
-  
-`;
 ```
 
 <br>
