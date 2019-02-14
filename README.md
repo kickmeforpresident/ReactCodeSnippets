@@ -1,5 +1,6 @@
 # ReactCodeSnippets
-React Code Snippets for Visual Studio
+
+React Code Snippets for Visual Studio 2017 & 2019
 
 [<img src="https://vsmarketplacebadge.apphb.com/version/IstvanKocsis.ReactCodeSnippets.svg" alt="Visual Studio Marketplace">](https://marketplace.visualstudio.com/items?itemName=IstvanKocsis.ReactCodeSnippets)
 
@@ -50,7 +51,7 @@ import styled from 'styled-components';
 `imsc`
 
 ```javascript
-import styled, { css } from 'styled-components'
+import styled, { css } from 'styled-components';
 ```
 
 <br>
@@ -67,7 +68,7 @@ import { connect } from 'react-redux';
 
 ```javascript
 componentDidMount() {
-    
+
 }
 ```
 
@@ -77,7 +78,7 @@ componentDidMount() {
 
 ```javascript
 componentDidCatch(error, info) {
-    
+
 }
 ```
 
@@ -87,7 +88,7 @@ componentDidCatch(error, info) {
 
 ```javascript
 componentDidUpdate(prevProps, prevState) {
-    
+
 }
 ```
 
@@ -97,7 +98,7 @@ componentDidUpdate(prevProps, prevState) {
 
 ```javascript
 componentWillMount() {
-    
+
 }
 ```
 
@@ -107,7 +108,7 @@ componentWillMount() {
 
 ```javascript
 componentWillReceiveProps(nextProps) {
-    
+
 }
 ```
 
@@ -117,7 +118,7 @@ componentWillReceiveProps(nextProps) {
 
 ```javascript
 componentWillUnmount() {
-    
+
 }
 ```
 
@@ -127,7 +128,7 @@ componentWillUnmount() {
 
 ```javascript
 componentWillUpdate() {
-    
+
 }
 ```
 
@@ -139,7 +140,7 @@ componentWillUpdate() {
 import React from 'react';
 
 const Example = (prop) => (
-    
+
 );
 
 export default Example;
@@ -154,7 +155,7 @@ import React from 'react';
 
 const Example = () => {
     return (
-        
+
     );
 }
 
@@ -172,7 +173,7 @@ class Example extends Component {
     state = { }
     render() {
         return (
-            
+
         );
     }
 }
@@ -194,7 +195,7 @@ class Example extends Component {
     }
     render() {
         return (
-            
+
         );
     }
 }
@@ -211,7 +212,7 @@ class Example extends PureComponent {
     state = {  }
     render() {
         return (
-            
+
         );
     }
 }
@@ -221,7 +222,7 @@ export default Example;
 
 <br>
 
-`pccs `
+`pccs`
 
 ```javascript
 import React, { PureComponent } from 'react';
@@ -233,7 +234,7 @@ class Example extends PureComponent {
     }
     render() {
         return (
-            
+
         );
     }
 }
@@ -246,9 +247,7 @@ export default Example;
 `styc`
 
 ```javascript
-const Example = styled.h1`
-  
-`;
+const Example = styled.h1``;
 ```
 
 <br>
@@ -256,9 +255,7 @@ const Example = styled.h1`
 `estyc`
 
 ```javascript
-export const Example = styled.h1`
-    
-`
+export const Example = styled.h1``;
 ```
 
 <br>
@@ -269,7 +266,7 @@ export const Example = styled.h1`
 export default (state = , action) => {
     switch (action.type) {
         case :
-            
+
         default:
             return state;
     }
