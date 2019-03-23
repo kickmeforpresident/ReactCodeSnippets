@@ -2,9 +2,7 @@
 
 React Code Snippets for Visual Studio 2017 & 2019
 
-[<img src="https://vsmarketplacebadge.apphb.com/version/IstvanKocsis.ReactCodeSnippets.svg" alt="Visual Studio Marketplace">](https://marketplace.visualstudio.com/items?itemName=IstvanKocsis.ReactCodeSnippets)
-
-[<img src="https://vsmarketplacebadge.apphb.com/downloads/IstvanKocsis.ReactCodeSnippets.svg" alt="Visual Studio Marketplace">](https://marketplace.visualstudio.com/items?itemName=IstvanKocsis.ReactCodeSnippets)
+[<img src="https://vsmarketplacebadge.apphb.com/version/IstvanKocsis.ReactCodeSnippets.svg" alt="Visual Studio Marketplace">](https://marketplace.visualstudio.com/items?itemName=IstvanKocsis.ReactCodeSnippets) [<img src="https://vsmarketplacebadge.apphb.com/downloads/IstvanKocsis.ReactCodeSnippets.svg" alt="Visual Studio Marketplace">](https://marketplace.visualstudio.com/items?itemName=IstvanKocsis.ReactCodeSnippets) [<img src="https://vsmarketplacebadge.apphb.com/rating-star/IstvanKocsis.ReactCodeSnippets.svg" alt="Visual Studio Marketplace">](https://marketplace.visualstudio.com/items?itemName=IstvanKocsis.ReactCodeSnippets)
 
 ---
 
