@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+      <Title>ComponentClassWithConstructor</Title>
+      <Author>István Kocsis</Author>
+      <Description>Component based class with constructor.</Description>
+      <HelpUrl>
+      </HelpUrl>
+      <Shortcut>cccs</Shortcut>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal Editable="true">
+          <ID>component</ID>
+          <ToolTip>component</ToolTip>
+          <Default>component</Default>
+          <Function>
+          </Function>
+        </Literal>
+      </Declarations>
+      <Code Language="typescript" Delimiter="$"><![CDATA[import React, { Component } from 'react';
+
+class $component$ extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {  };
+    }
+    render() {
+        return (
+            $end$
+        );
+    }
+}
+
+export default $component$;]]></Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
